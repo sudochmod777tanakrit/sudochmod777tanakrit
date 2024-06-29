@@ -28,7 +28,10 @@ I'm an Software Engineer Student
 - 😄 Pronouns: P'
 - ⚡ Fun fact: I'm newbie
 
-<img align="left" alt="Email" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://thanagrith@gmail.com">
+  <img align="left" alt="Email" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br>
 <br>
 
@@ -102,7 +105,7 @@ I'm an Software Engineer Student
 
 <div align="center">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="AbilityJLR's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
