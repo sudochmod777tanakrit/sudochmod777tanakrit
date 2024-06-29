@@ -22,7 +22,7 @@
 I'm an Software Engineer Student
 
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning Software Engineer
+- 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate on Some Small Business
 - 🤔 I’m looking for help with Creative 😢
 - 😄 Pronouns: P'
