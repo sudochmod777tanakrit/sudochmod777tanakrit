@@ -1,8 +1,23 @@
-## 🙋🏻‍♂️ AbilityJLR 👋
+<pre>
+                           █████╗ ██████╗ ██╗██╗     ██╗████████╗██╗   ██╗   ██╗██╗     ██████╗ 
+                          ██╔══██╗██╔══██╗██║██║     ██║╚══██╔══╝╚██╗ ██╔╝   ██║██║     ██╔══██╗
+                          ███████║██████╔╝██║██║     ██║   ██║    ╚████╔╝    ██║██║     ██████╔╝
+                          ██╔══██║██╔══██╗██║██║     ██║   ██║     ╚██╔╝██   ██║██║     ██╔══██╗
+                          ██║  ██║██████╔╝██║███████╗██║   ██║      ██║ ╚█████╔╝███████╗██║  ██║
+                          ╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝  ╚════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
+                                                   
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20Mobile%20Dev.;Software+Engineering+Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20Mobile%20Dev.;Software+Engineering+Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</p>
 
-**`Software Engineer / Fullstack Developer / Mobile Developer / Microservices`**
+<div align="center">
+
+  **`Software Engineer / Fullstack Developer / Mobile Developer / Microservices`**
+
+</div>
+
 
 I'm an Software Engineer Student
 
@@ -85,5 +100,13 @@ I'm an Software Engineer Student
 ##
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical)
+<div align="center">
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+</div>
+
+
+
+
