@@ -18,6 +18,18 @@
 
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="text-align: left; width: 50%;">
+        <img src="https://custom-icon-badges.demolab.com/badge/SURIN-THAILAND-F25278?style=for-the-badge&logo=location&logoColor=white" alt="Left Image" style="max-width: 100%;">
+      </td>
+      <td style="text-align: right; width: 50%;">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/AbilityJLR?color=F25278&labelColor=F25278&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Right Image" style="max-width: 100%;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 I'm an Software Engineer Student
 
@@ -58,6 +70,7 @@ I'm an Software Engineer Student
 
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+<img alt="Bash" width="30px" src="https://archive.org/download/github.com-LazyVim-LazyVim_-_2023-10-14_00-57-45/cover.jpg" />
 ![]()
 ![]()
 ![]()
@@ -105,11 +118,12 @@ I'm an Software Engineer Student
 
 <div align="center">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="AbilityJLR's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="AbilityJLR's github stats" height="192px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" height="192px"/></a> |
 | ------------- | ------------- |
 
 </div>
 
+[![An image of @abilityjlr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abilityjlr)](https://holopin.io/@abilityjlr)
 
 
 
