@@ -10,7 +10,7 @@ on:
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
@@ -24,9 +24,14 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
+      - name: Checkout repository
         uses: actions/checkout@v4
-    
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
