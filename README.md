@@ -31,7 +31,7 @@
   </table>
 </div>
 
-I'm an Software Engineer Student
+I'm a Software Engineering student.
 
 - 🔭 I’m currently working as a freelancer, taking on a variety of projects to build my portfolio and skills.
 - 🌱 I’m learning software engineering, focusing on web development and improving my coding abilities.
