@@ -124,5 +124,20 @@ I'm a Software Engineering student.
 
 [![An image of @abilityjlr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abilityjlr)](https://holopin.io/@abilityjlr)
 
+<details open> 
+  <summary><h2>🗺️ My Open Source Projects</h2></summary>
 
+  <p align="left">
+  </p>
 
+  <a href="https://github.com/AbilityJLR?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<details open> 
+  <summary><h2>📌 Microservices </h2></summary>
+
+  <p align="left">
+  </p>
+
+  <a href="https://github.com/AbilityJLR?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
