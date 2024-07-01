@@ -33,11 +33,11 @@
 
 I'm an Software Engineer Student
 
-- 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning Software Engineering
-- 👯 I’m looking to collaborate on Some Small Business
-- 🤔 I’m looking for help with Creative 😢
-- ⚡ Fun fact: I'm newbie
+- 🔭 I’m currently working as a freelancer, taking on a variety of projects to build my portfolio and skills.
+- 🌱 I’m learning software engineering, focusing on web development and improving my coding abilities.
+- 👯 I’m looking to collaborate with small businesses to help them grow through innovative solutions and digital strategies.
+- 🤔 I need help with creative ideas and brainstorming to bring fresh perspectives to my projects.
+- ⚡ Fun fact: I'm a newbie, but I'm eager to learn and passionate about what I do!
 
 <a href="https://thanagrith@gmail.com">
   <img align="left" alt="Email" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
