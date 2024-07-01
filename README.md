@@ -120,7 +120,11 @@ I'm a Software Engineering student.
 
 </div>
 
-[![An image of @abilityjlr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abilityjlr)](https://holopin.io/@abilityjlr)
+<div align="center">
+  
+![](https://github.com/AbilityJLR/AbilityJLR/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <details open> 
   <summary><h2>🗺️ My Open Source Projects</h2></summary>
@@ -139,3 +143,5 @@ I'm a Software Engineering student.
 
   <a href="https://github.com/AbilityJLR?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+[![An image of @abilityjlr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abilityjlr)](https://holopin.io/@abilityjlr)
