@@ -37,7 +37,6 @@ I'm an Software Engineer Student
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate on Some Small Business
 - 🤔 I’m looking for help with Creative 😢
-- 😄 Pronouns: P'
 - ⚡ Fun fact: I'm newbie
 
 <a href="https://thanagrith@gmail.com">
@@ -117,8 +116,8 @@ I'm an Software Engineer Student
 <br>
 
 <div align="center">
-
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="AbilityJLR's github stats" height="192px"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" height="192px"/></a> |
+  
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbilityJLR&show_icons=true&theme=radical&hide_border=true" alt="AbilityJLR's github stats" height="192px"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilityJLR&layout=compact&theme=radical&hide_border=true" height="192px"/></a> |
 | ------------- | ------------- |
 
 </div>
