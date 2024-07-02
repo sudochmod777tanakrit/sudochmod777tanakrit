@@ -24,9 +24,9 @@
   <table>
     <tr>
       <td style="text-align: left; width: 50%;">
-        <img width="169" src="https://custom-icon-badges.demolab.com/badge/SURIN-THAILAND-F25278?style=for-the-badge&logo=location&logoColor=white" alt="Left Image" style="max-width: 100%;">
+        <img width="167" src="https://custom-icon-badges.demolab.com/badge/SURIN-THAILAND-F25278?style=for-the-badge&logo=location&logoColor=white" alt="Left Image" style="max-width: 100%;">
       </td>
-      <td width="169" style="text-align: right; width: 50%;">
+      <td width="167" style="text-align: right; width: 50%;">
         <img src="https://custom-icon-badges.demolab.com/github/followers/AbilityJLR?color=F25278&labelColor=F25278&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Right Image" style="max-width: 100%;">
       </td>
     </tr>
