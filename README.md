@@ -145,13 +145,13 @@ I'm a Software Engineering student.
 
   <p align="left">
     <a href="https://github.com/AbilityJLR/eventBrokerService">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=eventBrokerService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=eventBrokerService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eventBrokerService">
     </a>
       <a href="https://github.com/AbilityJLR/paymentService">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=paymentService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=paymentService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="paymentService">
       </a>
       <a href="https://github.com/AbilityJLR/authService">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=authService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=authService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="authService">
       </a>
   </p>
 
