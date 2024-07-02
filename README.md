@@ -7,9 +7,11 @@
                           ╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝  ╚════╝ ╚══════╝╚═╝  ╚═╝
 </pre>
                                                    
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20Mobile%20Dev.;Software+Engineering+Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img width="400" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20Mobile%20Dev.;Software+Engineering+Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 <div align="center">
@@ -31,6 +33,16 @@
   </table>
 </div>
 
+<a href="https://thanagrith@gmail.com">
+  <img align="left" alt="Email" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 I'm a Software Engineering student.
 
 - 🔭 I’m currently working as a freelancer, taking on a variety of projects to build my portfolio and skills.
@@ -38,10 +50,6 @@ I'm a Software Engineering student.
 - 👯 I’m looking to collaborate with small businesses to help them grow through innovative solutions and digital strategies.
 - 🤔 I need help with creative ideas and brainstorming to bring fresh perspectives to my projects.
 - ⚡ Fun fact: I'm a newbie, but I'm eager to learn and passionate about what I do!
-
-<a href="https://thanagrith@gmail.com">
-  <img align="left" alt="Email" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <br>
 <br>
