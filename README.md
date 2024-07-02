@@ -37,6 +37,8 @@
 <br>
 <br>
 
+---
+
 I'm a Software Engineering student.
 
 - 🔭 I’m currently working as a freelancer, taking on a variety of projects to build my portfolio and skills.
@@ -44,9 +46,6 @@ I'm a Software Engineering student.
 - 👯 I’m looking to collaborate with small businesses to help them grow through innovative solutions and digital strategies.
 - 🤔 I need help with creative ideas and brainstorming to bring fresh perspectives to my projects.
 - ⚡ Fun fact: I'm a newbie, but I'm eager to learn and passionate about what I do!
-
-<br>
-<br>
 
 ---
 
