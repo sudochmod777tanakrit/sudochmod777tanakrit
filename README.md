@@ -11,7 +11,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <p align="center">
-  <img width="330" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20Mobile%20Dev.;Software+Engineering+Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img width="340" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20Mobile%20Dev.;Software+Engineering+Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 <div align="center">
