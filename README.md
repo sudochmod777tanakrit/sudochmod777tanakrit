@@ -126,7 +126,7 @@ I'm a Software Engineering student.
 
 <div align="center">
   
-![](https://github.com/AbilityJLR/AbilityJLR/blob/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
+![](https://github.com/AbilityJLR/AbilityJLR/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
