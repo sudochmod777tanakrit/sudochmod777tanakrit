@@ -26,9 +26,7 @@
 </p>
 
 <div align="center">
-  <a href="https://thanagrith@gmail.com">
-    <img height=25 align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://thanagrith@gmail.com"><img height=25 align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thanagrith-meanphon-b19356256/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/tha.g_/"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a><br>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
@@ -156,15 +154,9 @@ I'm a Software Engineering student.
   <summary><h2>📌 Microservices </h2></summary>
 
   <p align="left">
-    <a href="https://github.com/AbilityJLR/eventBrokerService">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=eventBrokerService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eventBrokerService">
-    </a>
-      <a href="https://github.com/AbilityJLR/paymentService">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=paymentService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="paymentService">
-      </a>
-      <a href="https://github.com/AbilityJLR/authService">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=authService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="authService">
-      </a>
+    <a href="https://github.com/AbilityJLR/eventBrokerService"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=eventBrokerService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eventBrokerService"></a>
+    <a href="https://github.com/AbilityJLR/paymentService"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=paymentService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="paymentService"></a>
+    <a href="https://github.com/AbilityJLR/authService"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=authService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="authService"></a>
   </p>
 
   <a href="https://github.com/AbilityJLR?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
