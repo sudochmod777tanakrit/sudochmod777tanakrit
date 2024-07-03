@@ -27,8 +27,14 @@
 
 <div align="center">
   <a href="https://thanagrith@gmail.com">
-    <img width="100" align="center" alt="Email" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img height=25 align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://x.com/l2flm_tha"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/thanagrith-meanphon-b19356256/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/tha.g_/"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+  <a href="https://medium.com/@convivial_keppel_butterfly_534"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+  <a href="https://dev.to/abilityjlr"><img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </div>
 
 <br>
