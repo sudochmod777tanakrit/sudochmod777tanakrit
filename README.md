@@ -138,11 +138,8 @@ I'm a Software Engineering student.
   <summary><h2>🗺️ My Open Source Projects</h2></summary>
 
   <p align="left">
-    <div align="left">
-      <a href="https://github.com/AbilityJLR/replace-words-lazyvim">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=replace-words-lazyvim&theme=radical" />
-      </a>
-    </div>
+      <a href="https://github.com/AbilityJLR/replace-words-lazyvim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=replace-words-lazyvim&theme=radical" /></a>
+      <a href="https://github.com/AbilityJLR/terminal-kanban"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abilityjlr&repo=terminal-kanban&theme=radical" /></a>
   </p>
 
   <a href="https://github.com/AbilityJLR?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
