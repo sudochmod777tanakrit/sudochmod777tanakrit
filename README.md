@@ -71,7 +71,7 @@ I'm a Software Engineering student.
 
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-<img alt="Bash" width="30px" src="https://archive.org/download/github.com-LazyVim-LazyVim_-_2023-10-14_00-57-45/cover.jpg" />
+![Static Badge](https://img.shields.io/badge/lazyvim-white?style=for-the-badge&logo=lazyvim)
 ![]()
 ![]()
 ![]()
