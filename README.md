@@ -67,7 +67,7 @@ I'm a Software Engineering student.
     &nbsp; <!-- non-breaking space -->
     <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     &nbsp; <!-- non-breaking space -->
-    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img alt="Python" width="30px" src="https://github.com/AbilityJLR/AbilityJLR/assets/71693169/688581ae-bfb4-4651-96de-c5f5e9a9b0df" />
     &nbsp; <!-- non-breaking space -->
     <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     &nbsp; <!-- non-breaking space -->
@@ -76,8 +76,7 @@ I'm a Software Engineering student.
     <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     &nbsp; <!-- non-breaking space -->
     <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    &nbsp; <!-- non-breaking space -->
-    <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+    <img alt="GitHub" width="50px" src="https://github.com/AbilityJLR/AbilityJLR/assets/71693169/712e6f2c-29ca-49a2-b20e-69fa94079b07" />
 </p>
 
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
