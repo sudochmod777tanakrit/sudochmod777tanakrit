@@ -114,7 +114,7 @@ I'm a Software Engineering student.
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![skaffold](https://img.shields.io/badge/skaffold-white?style=for-the-badge&logo=skaffold)
-![Static Badge](https://img.shields.io/badge/jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/jenkins-red?style=for-the-badge&logo=jenkinsimg&logoColor=white)
 ![](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
