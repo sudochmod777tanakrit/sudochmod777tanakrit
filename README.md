@@ -22,7 +22,7 @@
 
 <p align="center">
         <img width="175" src="https://custom-icon-badges.demolab.com/badge/SURIN-THAILAND-F25278?style=for-the-badge&logo=location&logoColor=white" alt="Left Image" style="max-width: 100%;">
-        <img width="125" src="https://custom-icon-badges.demolab.com/github/followers/AbilityJLR?color=F25278&labelColor=F25278&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Right Image" style="max-width: 100%;">
+        <img width="125" src="https://custom-icon-badges.demolab.com/github/followers/abilityjlr?color=F25278&labelColor=F25278&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Right Image" style="max-width: 100%;">
 </p>
 
 <div align="center">
