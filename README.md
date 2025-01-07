@@ -53,7 +53,7 @@ I'm a Software Engineering student.
 ### 🧰 Languages and Tools
 
 <p align="left">
-    <img alt="Go" width="30px" src="https://camo.githubusercontent.com/01273a607002beea2fb8df1ed7185f4906d15169819f6b6b31b05ee9161c2f8d/68747470733a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966" />
+    <img alt="Go" width="30px" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" />
     &nbsp; <!-- non-breaking space -->
     <img alt="Rust" height="30px" width="50px" src="https://github.com/AbilityJLR/AbilityJLR/assets/71693169/248fdf7b-1da3-4b9c-9b9d-a5da52aa86c0" />
     &nbsp; <!-- non-breaking space -->
