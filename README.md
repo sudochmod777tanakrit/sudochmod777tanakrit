@@ -55,6 +55,8 @@ I'm a Software Engineering student.
 <p align="left">
     <img alt="Go" width="30px" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" />
     &nbsp; <!-- non-breaking space -->
+    <img alt="Zig" height="30px" src="https://github.com/user-attachments/assets/c3513f34-b8d1-485e-bf39-20c0964d2f87" />
+    &nbsp; <!-- non-breaking space -->
     <img alt="Rust" height="30px" width="50px" src="https://github.com/AbilityJLR/AbilityJLR/assets/71693169/248fdf7b-1da3-4b9c-9b9d-a5da52aa86c0" />
     &nbsp; <!-- non-breaking space -->
     <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
